@@ -16,7 +16,7 @@ export default function Projects() {
             </div>
             <div className="w-[500px] py-5 px-10 rounded-xl bg-gradient-to-r from-gray-800 via-gray-900 to-black shadow-lg">
             <div className="bg-yellow-500 text-black font-bold text-sm rounded-xl w-24 text-center py-1 my-2">In Progress</div>
-                <h1 className="font-bold">RL Analyst</h1>
+                <h1 className="font-bold">RL Insights</h1>
                 <p className="font-[300]">This website shows rocket league related statistics that is fetched from a Rocket League API</p>
                 <Link href="https://github.com/Tharshen2124/RL-Insights"><div className="transition text-blue-400 hover:text-blue-500 active:text-blue-600 underline mt-3">Repository Link</div></Link>
             </div>
