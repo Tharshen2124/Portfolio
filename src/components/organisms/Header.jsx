@@ -12,9 +12,9 @@ export default function Header() {
           className="rounded-[1000px]"
         />
         <div className="" id="something" data-aos="fade-up">
-          <div className="py-8 sm:w-[320px] lg:w-[420px] px-10 rounded-lg drop-shadow-lg  bg-gradient-to-r from-gray-800 to-gray-900 animate-pulse">
-            <h1 className="font-[400] sm:text-xl md:text-2xl lg:text-4xl sm:text-center lg:text-left" >I&rsquo;m Tharshen</h1>
-            <h3 className="mt-1 font-[300] ">Just a lifeless geek who loves programming</h3>
+          <div className="py-8 sm:w-[320px] lg:w-[420px] px-10 rounded-lg drop-shadow-lg  bg-gradient-to-r from-gray-800 to-gray-900 animate-pulse phone:mx-5">
+            <h1 className="font-[400] laptop:text-4xl tablet:text-2xl phone:text-lg sm:text-center laptop:text-left phone:text-center" >I&rsquo;m Tharshen</h1>
+            <h3 className="mt-1 font-[300] laptop:text-left phone:text-center">Just a lifeless geek who loves programming</h3>
           </div>
         </div>
       </div>

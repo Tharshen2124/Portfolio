@@ -4,7 +4,7 @@ export default function Projects() {
   return (
     <section className="">
         <h2 className=" text-3xl text-center">My Projects</h2>
-        <div className="flex flex-wrap justify-center gap-8 mt-10">
+        <div className="flex flex-wrap justify-center gap-8 mt-10 mx-8">
             <div className="w-[500px] py-5 px-10 rounded-xl bg-gradient-to-r from-gray-800 via-gray-900 to-black shadow-lg">
             <div className="bg-yellow-500 text-black font-bold text-sm rounded-xl w-24 text-center py-1 my-2">In Progress</div>
                 <h1 className="font-bold">Restaurant Website</h1>
