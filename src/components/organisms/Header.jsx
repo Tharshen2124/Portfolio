@@ -24,7 +24,7 @@ export default function Header() {
           </div>
 
           <div class="mt-4">
-            <Link href="/resume.pdf">
+            <Link href="/Resume.pdf">
               <div class="transition flex justify-center py-3 rounded-lg sm:w-[320px] lg:w-[420px] tablet:mx-0 phone:mx-3 items-center bg-blue-500 hover:bg-blue-600">
                 View Resume
               </div>
