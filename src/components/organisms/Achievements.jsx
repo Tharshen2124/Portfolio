@@ -59,7 +59,7 @@ export default function Achievements() {
             </clipPath>
           </defs>
         </svg>
-        <h1 className="mt-3 text-xl text-center">6 noteable projects</h1>
+        <h1 className="mt-3 text-xl text-center">7 noteable projects</h1>
       </div>
       <div className="rounded-xl w-80 h-48 bg-gradient-to-r from-gray-800 to-gray-900 mx-10 my-10 shadow-lg py-10">
         <svg
