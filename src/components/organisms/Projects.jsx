@@ -54,7 +54,7 @@ export default function Projects() {
             <br />
             Currently working on a new interface that uses the same backend as the previous one but modified into an API.
           </p>
-          <Link href="https:hacktrackmmu.herokuapp.com">
+          <Link href="https://hacktrackmmu.herokuapp.com">
             <div className="transition text-blue-400 hover:text-blue-500 active:text-blue-600 underline mt-3">
               Website
             </div>
